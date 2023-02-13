@@ -1,3 +1,4 @@
-[submodule "mapoule/hugo-story"]
+[submodule "mapoule/themes/hugo-story"]
 	path = mapoule/themes/hugo-story
 	url = https://github.com/caressofsteel/hugo-story
+
