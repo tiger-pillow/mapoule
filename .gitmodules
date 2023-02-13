@@ -5,3 +5,7 @@
 [submodule "mapoule/hugo-story"]
 	path = mapoule/hugo-story
 	url = https://github.com/caressofsteel/hugo-story
+
+[submodule "themes/hugo-story"]
+	path = themes/hugo-story
+	url = https://github.com/caressofsteel/hugo-story
