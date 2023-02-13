@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Thithi & Yiyuan"
+subtitle: |
+  Happy Valentine's day, Thibaut! 
+content : |
+  It has been a wonderful journey. 
+button:
+  label : "straight to business "
+  link : "#first"
+image : "images/twochicken.jpeg"
+
