@@ -1,10 +1,11 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
-title : "Spotlight"
+title : "Volcano"
+id: "fifth"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  They were so lucky! That when they just arrived at Iceland, there was a sizable earthquake. By the time they cycled to Grindavik, the volcano was erupting. The night 
+  was mesmerizing. Thibaut still hasn't seen the Northern Lights yet, so we think we will go back to latitude 60+ again. 
 button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  label: "Next"
+  link: "#sixth"
+image: "images/volcano.jpeg"

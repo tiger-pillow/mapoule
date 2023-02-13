@@ -1,10 +1,12 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Our friend"
+id: "third"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Yiyuan was hesitating, Thibaut was done with exams. He said: it's up to you. She said: screw it, let's go. So they had a wonderful night with their new friend at 
+  Montreux Jazz Festival. They ordered fries. Yiyuan was impressed by Belgian mayo. Yiyuan is still jealous that tsew replied to Thithi on instagram. 
 button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  label: "Next"
+  link: "#fourth"
+image: "images/tsewthekid.jpeg"

@@ -3,9 +3,9 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 title : "Lavaux"
 id: "second"
 content: |
-    Thithi and Yiyuan rode to Lavaux, and that's the day when he finally asked her "will you be my girlfriend? " To which she responds, "of course, why would I call 
+    Thithi and Yiyuan rode to Lavaux, and that's the day when he finally asked her "will you be my girlfriend? " To which she responded, "of course, why would I call 
     you baby otherwise? "
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Next"
+  link: "#third"
 image: "images/lavaux.jpeg"

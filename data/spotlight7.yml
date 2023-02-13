@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Paris"
+content: |
+  Their first meet up since LDR was at Paris -- for another Tsew's concert. Yiyuan loved the place that Thibaut found -- an airbnb by Lucy. It was the perfect size, with adorable, cozy and homie 
+  decorations, and a very nice bakery downstairs where Thithi and Yiyuan got their fresh bread. Lucy has a really really thick blanket, ridiculous. One day Yiyuan woke up in the middle of the night and stripped off her clothes, and then went back to sleep. 
+  They were both sweating so much in that bed. 
+  They ate a lot of Chinese food, went around to museums, shops, drank wine and walked a lot. Yiyuan loved that weekend. 
+button: 
+  label: "Next"
+  link: "#"
+image: "images/parisbread.jpeg"

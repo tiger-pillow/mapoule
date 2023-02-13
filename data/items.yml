@@ -1,65 +1,216 @@
-title : "Items"
+title : "Poems"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+  Both Thithi and Yiyuan are quite talented. Admittedly, Thithi is better with words. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-gem"
+  - name : "One - Yiyuan"
+    content : "And here!"
+    style : "solid style2 major"
 
   # feature item loop
-  - name : "Two"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+  - name : "Two - Thibaut"
+    content : "Dear Gladys,
+Thank you for your mail, I appreciate your gesture as a sign of love and affection. Please do know that these feelings are reciprocal. To prove this, I wrote a little poem for you:
+
+Yiyuan,
+aussi forte qu'une Spartane
+tu m'inspires à courir un Ironman
+en mangeant une banane
+
+Looking forward to meeting you,
+Thibaut Motteu (professional account)"
+    style : "solid style2 major"
     
   # feature item loop
-  - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
+  - name : "Three - Yiyuan"
+    content : " Mon chère Thi thi   
+    Tu me manques mon Thi Thi,
+  Parce que tu m'as converti à Aldi.
+  Ton amour ressemble à la torche du feu,
+  parce que tu t'appelles Motteu. YF "
+    style : "solid style2 major"
     
   # feature item loop
-  - name : "Four"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
+  - name : "Four - Thibaut"
+    content : "Ma poule
+en pensant à toi, 
+le sang coule vers mes boules, 
+même si il fait froid  "
+    style : "solid style2 major"
     
   # feature item loop
-  - name : "Five"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-cog"
+  - name : "Five - Thibaut"
+    content : " désolé plus de blagues explicites, 
+je veux aller au Aldi avec toi, 
+pour acheter des frites, 
+et cuisiner un bon plat "
+    style : "solid style2 major"
     
   # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
+  - name : "Six - Yiyuan"
+    content : "Today is a Friday, 
+Not good for chicken Satay, 
+Because you are not here to stay, 
+Next Thursday it's going to be Yay!
+
+Yiyay Fang  "
+    style : "style2 major"
     
   # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
+  - name : "Seven - Thibaut"
+    content : " Dear Ms. Fang,
+下周四我不忙
+since tsew is part of our gang
+we'll be listening to the best songs he ever sang
+while on my shoulder your legs will hang 
+Love from Thibaut, your mustang "
+    style : "solid style2 major"
     
   # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
+  - name : "Eight - Yiyuan"
+    content : "Are you interested in opportunities to do sports and other adventurous things?
+Connect with Yiyuan for cultural diversity, exciting sports, fantastic laughters, and spectacular shows.
+Requirement: lots of patience, be able to laugh at your own joke, and called Thibaut Henri Roger Motteu"
+    style : "solid style2 major "
     
   # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
+  - name : "Nine - Thibaut"
+    content : " Dear Ms. Fang
+
+I have to say I feel honoured by your interest. I am aware that I would be a great fit for your business since - I don’t mean to brag here - I match all the requirements you mentioned. However, I am also a businessman myself, only today I already did business for about 30 minutes. As a consequence, working with you full time will be impossible.
+
+The reason I accepted your connection request is I do not want to exclude a collaboration with you, you seem like an interesting woman with similar interests as me (f.e. culture, sports, humour). Moreover, you managed to intrigue me by mentioning some “shows” that I want to know more of.
+
+When would you be free to talk more about this, eventually with a coffee? "
+    style : "solid style2 major "
     
   # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-bolt"
+  - name : "Ten - Thibaut"
+    content : " Je veux te faire des câlins
+Et t’avoir dans mes bras
+Je sais que je suis malin
+Même si tu penses que tu l’es plus que moi
+Toi et moi c’est le destin
+Je pense fort à toi,
+Ton poulain "
+    style : "solid style2 major"
     
   # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
+  - name : "Eleven - Yiyuan"
+    content : " Quand nous étions à la gare,
+Je ne voulais pas te dire au revoir,
+Dans mon cœur je sais que tu es toujours là,
+Brillant fort parce que tu es mon étoile.
+
+Ce n’est pas facile de trouver les mots qui riment,
+Mais j’essaye quand même car je trouve ton poème très intime,
+Et si tu ne reconnais pas que je suis plus malin,
+Je ne te fais plus de câlin! "
+    style : "style2 major"
     
   # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
+  - name : "Twelve - Thibaut"
+    content : " 你的狗, 
+不很忙, 
+我的貓, 
+也愛 坊學生, 
+我想念我的女朋友, 
+Xoxo 你的 mustang "
+    style : "solid style2 major"
     
+  
+    # feature item loop
+  - name : "Thirteen - Thibaut"
+    content : " Encore une semaine
+Avant de voir ma reine
+Le livre rajoute de la peine
+Mais c est vers toi que le futur me mène  "
+    style : "style2 major"
+    
+  # feature item loop
+  - name : "Fourteen - Thibaut"
+    content : " My chick, 
+You are the one I pick, 
+To you I always stick, 
+Hope you won’t get sick, 
+But if you do I’ll give you a lick, 
+Better remedy than you can ever get at the clinic, 
+I hope I don’t make you cynic,
+Just trying to be comic, 
+And as always poetic, 
+Without being a prick, 
+Miss you, try not to be melancholic "
+    style : "solid style2 major"
+    
+  # feature item loop
+  - name : "Fiftheen - Yiyuan"
+    content : "  Cher Thibaut,
+Tu me manques mon amour,
+Tes sourires et tes humours.
+Dans un monde moins absolu,
+Je t'aime d'une manière plus résolue,
+Parce que tu es mon poilu!
+
+mmmuuaaaaaauuummm
+Ta fusée 💨 "
+    style : "solid style2 major"
+    
+
+     # feature item loop
+  - name : "Sixteen - Thibaut"
+    content : "En pensant à toi je demeure, 
+des sentiments de joie, d'amour et parfois de peur, 
+car sans toi, je ne serais plus certain de mon ultime bonheur, 
+ton sourire me manque chaque heure, 
+tout comme ton omniprésente sueur, 
+
+tu es et seras toujours là, très profond dans mon coeur, 
+mille bisous de ton chargeur"
+    style : "solid style2 major"
+
+    # feature item loop
+  - name : "Seventeen - Thibaut"
+    content : "Ton chargeur
+Est le pire
+Mais aussi parfois le meilleur
+Impatient de t’accueillir
+Et d’aller chez le coiffeur
+En attentant il ne peut que se réjouir
+Parce qu’il est beintôt l’heure
+De retrouver sa petite machine et manger du skyr
+Quand tu n’es pas là,
+j’ai besoin d’être ailleurs
+Je pense très fort à toi,
+Bisous, ton chargeur"
+    style : "solid style2 major"
+
+# feature item loop
+  - name : "Eighteen - Thibaut"
+    content : "Ma fusée, 
+A moi de te faire décoller, 
+Pour ensemble s’en aller, 
+On peut découvrir à nous deux le monde entier, 
+User nos chaussures et voyager,
+L’histoire qu’on écrira de nous est une épopée,
+En s’assurant que les étoiles restent bien alignées,
+Je veux passer ensemble chaque automne, hiver, printemps et été.
+Tu es amazing mon bébé,
+Mua, ton poilu adoré"
+    style : "solid style2 major"
+
+  - name : "Nineteen - Yiyuan"
+    content : "Mon Octo,
+Je sais que tu n’as pas de tentakel,
+Mais c’est pas grave,
+Parce que tu as assez de poils.
+Je sais que tes doigts de pieds sont moins flexibles,
+Mais c’est pas grave,
+Parce que je serai près de toi,
+Et c’est moi qui contrôle la zapette en tout cas. (Ça rime!)
+Quand je serai chez toi,
+Je vais essayer de gonfler un peu,
+Et comme ca tu ne peux pas me faire décoller,
+Parce que je veux rester dans le canapé,
+Et regarder Naked Attraction dans tes bras."
+    style : "solid style2 major"

@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Noel"
+content: |
+  Yiyuan arrived in Belgium after two months of not seeing Thithi. Thithi picked her up from the airport (while parking at a weird place). Christmas was not as scary as 
+  Yiyuan imagined. They rode the bike to see Papi, learned to play chess (got too competitive), ate lots of yummy food, and watched a movie in which Yiyuan fell asleep and started to snore. 
+  Thithi was so kind to find a Harry Potter experience, and they saw a troll whose breath resembles Thithi's morning breath.
+button: 
+  label: "Next"
+  link: "#"
+image: "images/troll.png"

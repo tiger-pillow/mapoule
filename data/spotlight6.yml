@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "sixth"
+title : "Coumayeur"
+content: |
+  They spent a wonderful time in Belgium, visiting Bruges, Ostend, Waterloo, Brussels. After returning to Switzerland, 
+  they went on a hike at Yiyuan's favorite refuge in Italy, where she got a hat, and he got a shirt. They saw a real sheperd on the way, and Thibaut 
+  patted the sheep and goats. Thithi left after a few days, and thus they began their long-distance relationship.
+button:
+  label: "Next"
+  link: "#seventh"
+image: "images/coumayeur.jpeg"

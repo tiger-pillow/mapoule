@@ -1,0 +1,16 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "sixth"
+title : "Verbier"
+content: |
+  Finally vacation time again! Yiyuan and Thibaut got into the rhythm of waking up, doing business after eating an egg sandwich + peanut butter, running for the bus, 
+  skiing, going to the migros and cooking in a misty kitchen! Gabriella's place was very cute and good priced (thanks Thibaut), albeit a little cold (a little is an understatement). 
+  They had a few small fights but they talked out of them very quickly. They also went uphill with a super ambitious goal, skied with friends, had fondue and pizza. They also had their best s** ever. 
+
+  Upon returning to Lausanne, they went to jump spot and Yiyuan had her shoulder dislocated again, so they took the next day easy. Yiyuan ate the best pizza ever chez Mami, but thibaut 
+  got AGAIN a pizza with anchoives, not his favorite. 
+
+button:
+  label: "Next"
+  link: "#seventh"
+image: "images/verbiersmoke.jpeg"

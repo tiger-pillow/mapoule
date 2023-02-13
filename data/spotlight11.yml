@@ -1,0 +1,21 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "To the future"
+content: |
+  Thithi and Yiyuan met as roommates, and somehow their sense of humor, love of sports and mountains, and internal weirdness gradually revealed themselves. They got 
+  together and have helped each other grow tremendously. 
+  <br/><br/>
+  Unfortunately, they are not in the same city now, and the distance between them puts doubts in both of their heads. Yiyuan is sometimes a little negative, unsure about what she wants. 
+  Thithi doesn't talk so much either. But they are both aware of their problems, and recognize how unique each other is, even in this world of 8 billion people. 
+  <br/><br/>
+  Yiyuan wants to tell Thithi through this little story that she made, that she wants to try , and not give up this precious relationship easily. She is sorry that she is on the plane, and not with her baby, but they shall see each other soon. 
+
+
+  Happy Valentine's day. Mon chargeur, mon poilu, mon amour, ma poule. 
+
+  Yiyuan
+
+button: 
+  label: "Learn More"
+  link: "#"

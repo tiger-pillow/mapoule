@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "sixth"
+title : "Crans-Montana"
+content: |
+  Thithi came to visit Yiyuan in Switzerland! They had a wonderful time together and asked each other ridiculous questions while hiking on Crans Montana. Yiyuan was a little sad at the beginning, but she felt better later. <br>THEY USED A WILD CARD!! </br> and they thoroughly enjoyed the experience. Thithi needs a lot of sleep, and Yiyuan loves it when he sleeps by her side. She feels so safe this way.
+button:
+  label: "Next"
+  link: "#seventh"
+image: "images/sleeping.jpeg"
